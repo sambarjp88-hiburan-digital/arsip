@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sambarjp88-hiburan-digital.github.io/sitemap.xml
